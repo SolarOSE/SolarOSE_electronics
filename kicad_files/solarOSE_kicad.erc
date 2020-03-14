@@ -1,0 +1,563 @@
+ERC report (mer. 26 févr. 2020 21:12:29 CET, Encoding UTF8 )
+
+***** Sheet /
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 46,99 mm): Hierarchical label ENA_9 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 46,99 mm): Pin 2 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 67,31 mm): Pin 21 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 67,31 mm): Hierarchical label ENA_6 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 69,85 mm): Pin 22 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 69,85 mm): Hierarchical label STEP_6 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 72,39 mm): Pin 23 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 72,39 mm): Hierarchical label DIR_6 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 74,93 mm): Pin 24 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 74,93 mm): Hierarchical label ENA_7 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 77,47 mm): Pin 25 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 77,47 mm): Hierarchical label STEP_7 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 80,01 mm): Hierarchical label DIR_7 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 80,01 mm): Pin 26 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 82,55 mm): Pin 27 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 82,55 mm): Hierarchical label ENA_8 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 85,09 mm): Pin 28 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 85,09 mm): Hierarchical label STEP_8 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 55,88 mm): Pin 5 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 55,88 mm): Hierarchical label ENA_20 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 71,12 mm): Hierarchical label STEP_16 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 71,12 mm): Pin 22 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 73,66 mm): Hierarchical label DIR_16 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 73,66 mm): Pin 23 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 76,20 mm): Hierarchical label ENA_17 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 76,20 mm): Pin 24 (Bidirectional) of component U4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 78,74 mm): Pin 25 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 78,74 mm): Hierarchical label STEP_17 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 81,28 mm): Hierarchical label DIR_17 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 81,28 mm): Pin 26 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 83,82 mm): Hierarchical label ENA_18 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 83,82 mm): Pin 27 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 86,36 mm): Hierarchical label STEP_18 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 86,36 mm): Pin 28 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 50,80 mm): Hierarchical label STEP_19 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 50,80 mm): Pin 3 (Bidirectional) of component U4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 53,34 mm): Pin 4 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 53,34 mm): Hierarchical label DIR_19 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 49,53 mm): Hierarchical label STEP_9 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 49,53 mm): Pin 3 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 58,42 mm): Hierarchical label STEP_20 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 58,42 mm): Pin 6 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 60,96 mm): Hierarchical label DIR_20 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 60,96 mm): Pin 7 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(99,06 mm, 119,38 mm): Hierarchical label 36V is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(104,14 mm, 119,38 mm): Pin 1 (Passive) of component J2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 44,45 mm): Pin 1 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 44,45 mm): Hierarchical label DIR_8 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 52,07 mm): Pin 4 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 52,07 mm): Hierarchical label DIR_9 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 54,61 mm): Pin 5 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 54,61 mm): Hierarchical label ENA_10 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 57,15 mm): Pin 6 (Bidirectional) of component U2 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 57,15 mm): Hierarchical label STEP_10 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(172,72 mm, 59,69 mm): Hierarchical label DIR_10 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(172,72 mm, 59,69 mm): Pin 7 (Bidirectional) of component U2 is unconnected.
+ErrType(7): A pin with a "no connection" flag is connected
+    @(49,53 mm, 24,13 mm): More than 1 pin connected to an UnConnect symbol.
+ErrType(7): A pin with a "no connection" flag is connected
+    @(64,77 mm, 24,13 mm): More than 1 pin connected to an UnConnect symbol.
+ErrType(7): A pin with a "no connection" flag is connected
+    @(62,23 mm, 24,13 mm): More than 1 pin connected to an UnConnect symbol.
+ErrType(7): A pin with a "no connection" flag is connected
+    @(57,15 mm, 24,13 mm): More than 1 pin connected to an UnConnect symbol.
+ErrType(7): A pin with a "no connection" flag is connected
+    @(52,07 mm, 24,13 mm): More than 1 pin connected to an UnConnect symbol.
+ErrType(7): A pin with a "no connection" flag is connected
+    @(46,99 mm, 24,13 mm): More than 1 pin connected to an UnConnect symbol.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 44,45 mm): Pin 1 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 85,09 mm): Pin 28 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 49,53 mm): Pin 3 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 52,07 mm): Pin 4 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 54,61 mm): Pin 5 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 57,15 mm): Pin 6 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 59,69 mm): Pin 7 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 62,23 mm): Pin 8 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 44,45 mm): Pin 1 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 44,45 mm): Hierarchical label DIR_13 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 82,55 mm): Pin 27 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 68,58 mm): Pin 21 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 68,58 mm): Hierarchical label ENA_16 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(255,27 mm, 129,54 mm): Hierarchical label GND is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(257,81 mm, 93,98 mm): Pin 10 (Power input) of component U4 is not driven (Net 184).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 46,99 mm): Pin 2 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 46,99 mm): Hierarchical label ENA_14 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 46,99 mm): Pin 2 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 67,31 mm): Pin 21 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 69,85 mm): Pin 22 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 72,39 mm): Pin 23 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 74,93 mm): Pin 24 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 77,47 mm): Pin 25 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(123,19 mm, 80,01 mm): Pin 26 (Bidirectional) of component U1 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 49,53 mm): Hierarchical label STEP_14 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 49,53 mm): Pin 3 (Bidirectional) of component U3 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 67,31 mm): Pin 21 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 67,31 mm): Hierarchical label ENA_11 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 69,85 mm): Pin 22 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 69,85 mm): Hierarchical label STEP_11 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 72,39 mm): Hierarchical label DIR_11 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 72,39 mm): Pin 23 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 74,93 mm): Hierarchical label ENA_12 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 74,93 mm): Pin 24 (Bidirectional) of component U3 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 77,47 mm): Pin 25 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 77,47 mm): Hierarchical label STEP_12 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 80,01 mm): Pin 26 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 80,01 mm): Hierarchical label DIR_12 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 82,55 mm): Hierarchical label ENA_13 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 82,55 mm): Pin 27 (Bidirectional) of component U3 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 85,09 mm): Pin 28 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 85,09 mm): Hierarchical label STEP_13 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 52,07 mm): Pin 4 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 52,07 mm): Hierarchical label DIR_14 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 54,61 mm): Pin 5 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 54,61 mm): Hierarchical label ENA_15 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 57,15 mm): Hierarchical label STEP_15 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 57,15 mm): Pin 6 (Bidirectional) of component U3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(222,25 mm, 59,69 mm): Hierarchical label DIR_15 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(222,25 mm, 59,69 mm): Pin 7 (Bidirectional) of component U3 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(80,01 mm, 69,85 mm): Pin 96 (Output) of component U0 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 45,72 mm): Pin 1 (Bidirectional) of component U4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 45,72 mm): Hierarchical label DIR_18 is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(257,81 mm, 38,10 mm): Pin 9 (Power input) of component U4 is not driven (Net 212).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(255,27 mm, 118,11 mm): Hierarchical label 3V3 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(275,59 mm, 48,26 mm): Hierarchical label ENA_19 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(275,59 mm, 48,26 mm): Pin 2 (Bidirectional) of component U4 is unconnected.
+
+***** Sheet /motor_driver2/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(232,41 mm, 43,18 mm): Pin 14 (Input) of component A15 is not driven (Net 306).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(127,00 mm, 43,18 mm): Pin 14 (Input) of component A13 is not driven (Net 307).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(179,07 mm, 40,64 mm): Pin 13 (Input) of component A14 is not driven (Net 309).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(194,31 mm, 71,12 mm): Pin 7 (Power input) of component A14 is not driven (Net 325).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 81,28 mm): Hierarchical label GND is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(46,99 mm, 33,02 mm): Pin 8 (Power input) of component A11 is not driven (Net 326).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 16,51 mm): Hierarchical label 36V is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(76,20 mm, 43,18 mm): Pin 14 (Input) of component A12 is not driven (Net 327).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 48,26 mm): Hierarchical label ENA_13 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 48,26 mm): Pin 9 (Input) of component A13 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 50,80 mm): Pin 15 (Input) of component A14 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 50,80 mm): Hierarchical label STEP_14 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 53,34 mm): Pin 16 (Input) of component A13 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 53,34 mm): Hierarchical label DIR_13 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 50,80 mm): Pin 15 (Input) of component A13 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 50,80 mm): Hierarchical label STEP_13 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 48,26 mm): Pin 9 (Input) of component A14 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 48,26 mm): Hierarchical label ENA_14 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 53,34 mm): Pin 16 (Input) of component A15 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 53,34 mm): Hierarchical label DIR_15 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 50,80 mm): Pin 15 (Input) of component A15 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 50,80 mm): Hierarchical label STEP_15 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 53,34 mm): Hierarchical label DIR_14 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 53,34 mm): Pin 16 (Input) of component A14 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 48,26 mm): Hierarchical label ENA_11 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 48,26 mm): Pin 9 (Input) of component A11 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 53,34 mm): Pin 16 (Input) of component A11 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 53,34 mm): Hierarchical label DIR_11 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 50,80 mm): Hierarchical label STEP_11 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 50,80 mm): Pin 15 (Input) of component A11 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(31,75 mm, 40,64 mm): Pin 13 (Input) of component A11 is not driven (Net 341).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 48,26 mm): Hierarchical label ENA_12 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 48,26 mm): Pin 9 (Input) of component A12 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 53,34 mm): Pin 16 (Input) of component A12 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 53,34 mm): Hierarchical label DIR_12 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 50,80 mm): Pin 15 (Input) of component A12 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 50,80 mm): Hierarchical label STEP_12 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 48,26 mm): Hierarchical label ENA_15 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 48,26 mm): Pin 9 (Input) of component A15 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 77,47 mm): Hierarchical label 3V3 is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(76,20 mm, 58,42 mm): Pin 10 (Input) of component A12 is not driven (Net 346).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(232,41 mm, 116,84 mm): Pin 13 (Input) of component A20 is not driven (Net 349).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(127,00 mm, 119,38 mm): Pin 14 (Input) of component A18 is not driven (Net 351).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(179,07 mm, 119,38 mm): Pin 14 (Input) of component A19 is not driven (Net 352).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 92,71 mm): Hierarchical label 36V is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(46,99 mm, 109,22 mm): Pin 8 (Power input) of component A16 is not driven (Net 368).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(76,20 mm, 116,84 mm): Pin 13 (Input) of component A17 is not driven (Net 369).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 124,46 mm): Pin 9 (Input) of component A18 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 124,46 mm): Hierarchical label ENA_18 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 127,00 mm): Pin 15 (Input) of component A19 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 127,00 mm): Hierarchical label STEP_19 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 129,54 mm): Hierarchical label DIR_18 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 129,54 mm): Pin 16 (Input) of component A18 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 127,00 mm): Pin 15 (Input) of component A18 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 127,00 mm): Hierarchical label STEP_18 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 124,46 mm): Hierarchical label ENA_19 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 124,46 mm): Pin 9 (Input) of component A19 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 129,54 mm): Hierarchical label DIR_20 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 129,54 mm): Pin 16 (Input) of component A20 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 127,00 mm): Hierarchical label STEP_20 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 127,00 mm): Pin 15 (Input) of component A20 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 129,54 mm): Pin 16 (Input) of component A19 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 129,54 mm): Hierarchical label DIR_19 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 124,46 mm): Hierarchical label ENA_16 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 124,46 mm): Pin 9 (Input) of component A16 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 129,54 mm): Pin 16 (Input) of component A16 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 129,54 mm): Hierarchical label DIR_16 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 127,00 mm): Hierarchical label STEP_16 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 127,00 mm): Pin 15 (Input) of component A16 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(31,75 mm, 119,38 mm): Pin 14 (Input) of component A16 is not driven (Net 383).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 124,46 mm): Hierarchical label ENA_17 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 124,46 mm): Pin 9 (Input) of component A17 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 129,54 mm): Pin 16 (Input) of component A17 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 129,54 mm): Hierarchical label DIR_17 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 127,00 mm): Pin 15 (Input) of component A17 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 127,00 mm): Hierarchical label STEP_17 is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(189,23 mm, 147,32 mm): Pin 1 (Power input) of component A19 is not driven (Net 387).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 157,48 mm): Hierarchical label GND is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 124,46 mm): Hierarchical label ENA_20 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 124,46 mm): Pin 9 (Input) of component A20 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 153,67 mm): Hierarchical label 3V3 is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(76,20 mm, 137,16 mm): Pin 11 (Input) of component A17 is not driven (Net 389).
+
+***** Sheet /motor_drivers1/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(179,07 mm, 43,18 mm): Pin 14 (Input) of component A4 is not driven (Net 222).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(127,00 mm, 40,64 mm): Pin 13 (Input) of component A3 is not driven (Net 225).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(232,41 mm, 43,18 mm): Pin 14 (Input) of component A5 is not driven (Net 236).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 129,54 mm): Hierarchical label DIR_6 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 129,54 mm): Pin 16 (Input) of component A6 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 127,00 mm): Pin 15 (Input) of component A6 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 127,00 mm): Hierarchical label STEP_6 is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(31,75 mm, 119,38 mm): Pin 14 (Input) of component A6 is not driven (Net 241).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(247,65 mm, 33,02 mm): Pin 8 (Power input) of component A5 is not driven (Net 242).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 16,51 mm): Hierarchical label 36V is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(76,20 mm, 40,64 mm): Pin 13 (Input) of component A2 is not driven (Net 243).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 53,34 mm): Hierarchical label DIR_4 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 53,34 mm): Pin 16 (Input) of component A4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 50,80 mm): Hierarchical label STEP_4 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 50,80 mm): Pin 15 (Input) of component A4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 48,26 mm): Pin 9 (Input) of component A3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 48,26 mm): Hierarchical label ENA_3 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 53,34 mm): Pin 16 (Input) of component A3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 53,34 mm): Hierarchical label DIR_3 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 50,80 mm): Hierarchical label STEP_3 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 50,80 mm): Pin 15 (Input) of component A3 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 53,34 mm): Hierarchical label DIR_5 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 53,34 mm): Pin 16 (Input) of component A5 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 50,80 mm): Pin 15 (Input) of component A5 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 50,80 mm): Hierarchical label STEP_5 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 48,26 mm): Pin 9 (Input) of component A4 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 48,26 mm): Hierarchical label ENA_4 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 48,26 mm): Pin 9 (Input) of component A1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 53,34 mm): Pin 16 (Input) of component A1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 50,80 mm): Pin 15 (Input) of component A1 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(31,75 mm, 40,64 mm): Pin 13 (Input) of component A1 is not driven (Net 257).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 48,26 mm): Pin 9 (Input) of component A2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 53,34 mm): Pin 16 (Input) of component A2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 50,80 mm): Pin 15 (Input) of component A2 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(142,24 mm, 71,12 mm): Pin 7 (Power input) of component A3 is not driven (Net 261).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 81,28 mm): Hierarchical label GND is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 48,26 mm): Pin 9 (Input) of component A5 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 48,26 mm): Hierarchical label ENA_5 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 77,47 mm): Hierarchical label 3V3 is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(189,23 mm, 33,02 mm): Pin 2 (Power input) of component A4 is not driven (Net 263).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(86,36 mm, 147,32 mm): Pin 1 (Power input) of component A7 is not driven (Net 271).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 157,48 mm): Hierarchical label GND is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(127,00 mm, 119,38 mm): Pin 14 (Input) of component A8 is not driven (Net 276).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(179,07 mm, 119,38 mm): Pin 14 (Input) of component A9 is not driven (Net 277).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(232,41 mm, 116,84 mm): Pin 13 (Input) of component A10 is not driven (Net 287).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(142,24 mm, 109,22 mm): Pin 8 (Power input) of component A8 is not driven (Net 288).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 92,71 mm): Hierarchical label 36V is not connected to a sheet label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(76,20 mm, 116,84 mm): Pin 13 (Input) of component A7 is not driven (Net 289).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 127,00 mm): Pin 15 (Input) of component A9 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 127,00 mm): Hierarchical label STEP_9 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 124,46 mm): Hierarchical label ENA_9 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 124,46 mm): Pin 9 (Input) of component A9 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(179,07 mm, 129,54 mm): Hierarchical label DIR_9 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(179,07 mm, 129,54 mm): Pin 16 (Input) of component A9 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 124,46 mm): Pin 9 (Input) of component A8 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 124,46 mm): Hierarchical label ENA_8 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 124,46 mm): Hierarchical label ENA_10 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 124,46 mm): Pin 9 (Input) of component A10 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 129,54 mm): Hierarchical label DIR_10 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 129,54 mm): Pin 16 (Input) of component A10 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(232,41 mm, 127,00 mm): Pin 15 (Input) of component A10 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(232,41 mm, 127,00 mm): Hierarchical label STEP_10 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 129,54 mm): Pin 16 (Input) of component A7 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 129,54 mm): Hierarchical label DIR_7 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 127,00 mm): Hierarchical label STEP_7 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 127,00 mm): Pin 15 (Input) of component A7 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(31,75 mm, 124,46 mm): Pin 9 (Input) of component A6 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(31,75 mm, 124,46 mm): Hierarchical label ENA_6 is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 129,54 mm): Hierarchical label DIR_8 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 129,54 mm): Pin 16 (Input) of component A8 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(127,00 mm, 127,00 mm): Hierarchical label STEP_8 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(127,00 mm, 127,00 mm): Pin 15 (Input) of component A8 is unconnected.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(76,20 mm, 124,46 mm): Hierarchical label ENA_7 is not connected to a sheet label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76,20 mm, 124,46 mm): Pin 9 (Input) of component A7 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(31,75 mm, 139,70 mm): Pin 12 (Input) of component A6 is not driven (Net 303).
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @(19,05 mm, 153,67 mm): Hierarchical label 3V3 is not connected to a sheet label.
+
+ ** ERC messages: 277  Errors 0  Warnings 277
